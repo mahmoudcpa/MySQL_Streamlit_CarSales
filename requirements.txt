@@ -1,1 +1,8 @@
+streamlit
+mysql.connector
+pandas
+plotly
+PIL
+
+# in the termianl: pip install requirements.txt
 
